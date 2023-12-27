@@ -12,32 +12,6 @@ MyToken is a simple ERC-20 token named "Yuanboingboing" (symbol: YUAN). The cont
 - **Token Transfer**: Users can transfer tokens to other addresses.
 - **Token Burning**: Users can burn their tokens, reducing the total supply.
 
-## Getting Started
-
-### Prerequisites
-
-- [Node.js](https://nodejs.org/) installed
-- [npm](https://www.npmjs.com/) installed
-
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone <repository_url>
-   ```
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd MyToken
-   ```
-
-3. Install dependencies:
-
-   ```bash
-   npm install
-   ```
 
 ### Usage
 
