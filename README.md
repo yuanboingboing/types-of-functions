@@ -1,7 +1,5 @@
 # types-of-functions
 
-## MyToken - Yuanboingboing
-
 ## Overview
 
 MyToken is a simple ERC-20 token named "Yuanboingboing" (symbol: YUAN). The contract allows for token creation, transfer, and burning.
